@@ -40,9 +40,9 @@
       <recent name="com.kafka.tutorial1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConsumerDemoWithThread">
-    <configuration name="ConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kafka.tutorial1.ConsumerDemo" />
+  <component name="RunManager" selected="Application.ConsumerDemoAssignSeek">
+    <configuration name="ConsumerDemoAssignSeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kafka.tutorial1.ConsumerDemoAssignSeek" />
       <module name="kafka-beginners" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConsumerDemoAssignSeek" />
         <item itemvalue="Application.ConsumerDemoWithThread" />
         <item itemvalue="Application.ConsumerDemoGroups" />
         <item itemvalue="Application.ProducerDemoWithCallback" />
         <item itemvalue="Application.ProducerDemo" />
-        <item itemvalue="Application.ConsumerDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -150,22 +150,22 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="335" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1578287959683" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1578546105668">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1578760555640">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1578546105668" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1578546105668">
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1578760555640" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1578760555640">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1578546105668" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1578546105668">
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1578760555640" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1578760555640">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1578546105668" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1578546105668">
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1578760555640" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1578760555640">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1578546105668" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1578760555640" />
     <state x="461" y="223" key="SettingsEditor" timestamp="1578287960460">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
