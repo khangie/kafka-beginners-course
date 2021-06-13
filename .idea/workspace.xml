@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9aab599b-0fca-40c3-a163-da3c1883b692" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kafka/tutorial1/ProducerDemoWithCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kafka/tutorial1/ProducerDemoWithCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kafka/tutorial1/ProducerDemoKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kafka/tutorial1/ProducerDemoKeys.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,22 +43,9 @@
       <recent name="com.kafka.tutorial1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProducerDemoWithCallback">
+  <component name="RunManager" selected="Application.ProducerDemoKeys">
     <configuration name="ConsumerDemoAssignSeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kafka.tutorial1.ConsumerDemoAssignSeek" />
-      <module name="kafka-beginners" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kafka.tutorial1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConsumerDemoGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kafka.tutorial1.ConsumerDemoGroups" />
       <module name="kafka-beginners" />
       <extension name="coverage">
         <pattern>
@@ -96,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProducerDemoKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kafka.tutorial1.ProducerDemoKeys" />
+      <module name="kafka-beginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kafka.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProducerDemoWithCallback" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kafka.tutorial1.ProducerDemoWithCallback" />
       <module name="kafka-beginners" />
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProducerDemoKeys" />
         <item itemvalue="Application.ProducerDemoWithCallback" />
         <item itemvalue="Application.ProducerDemo" />
         <item itemvalue="Application.ConsumerDemoAssignSeek" />
         <item itemvalue="Application.ConsumerDemoWithThread" />
-        <item itemvalue="Application.ConsumerDemoGroups" />
       </list>
     </recent_temporary>
   </component>
@@ -145,22 +145,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1273" height="162" key="GridCell.Tab.0.bottom" timestamp="1623595880719">
+    <state width="1273" height="162" key="GridCell.Tab.0.bottom" timestamp="1623596636455">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1273" height="162" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1623595880719" />
-    <state width="1273" height="162" key="GridCell.Tab.0.center" timestamp="1623595880718">
+    <state width="1273" height="162" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1623596636455" />
+    <state width="1273" height="162" key="GridCell.Tab.0.center" timestamp="1623596636454">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1273" height="162" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1623595880718" />
-    <state width="1273" height="162" key="GridCell.Tab.0.left" timestamp="1623595880718">
+    <state width="1273" height="162" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1623596636454" />
+    <state width="1273" height="162" key="GridCell.Tab.0.left" timestamp="1623596636454">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1273" height="162" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1623595880718" />
-    <state width="1273" height="162" key="GridCell.Tab.0.right" timestamp="1623595880719">
+    <state width="1273" height="162" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1623596636454" />
+    <state width="1273" height="162" key="GridCell.Tab.0.right" timestamp="1623596636454">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state width="1273" height="162" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1623595880719" />
+    <state width="1273" height="162" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1623596636454" />
     <state x="428" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1623594404342">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
