@@ -28,7 +28,7 @@ public class ProducerDemoWithCallback {
         for (int i = 0; i < 10; i++) {
 
             // Create Producer Record
-            ProducerRecord<String, String> record = new ProducerRecord<String, String>("first_topic", "hello world" + Integer.toString(i));
+            ProducerRecord<String, String> record = new ProducerRecord<String, String>("first_topic", "hello world " + Integer.toString(i));
 
             producer.send(record, new Callback() {
                 public void onCompletion(RecordMetadata recordMetadata, Exception e) {
