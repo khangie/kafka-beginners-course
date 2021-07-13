@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9aab599b-0fca-40c3-a163-da3c1883b692" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kafka/tutorial1/ConsumerDemoAssignSeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kafka/tutorial1/ConsumerDemoAssignSeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kafka/tutorial1/ConsumerDemoAssignSeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kafka/tutorial1/ConsumerDemoAssignSeek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kafka/tutorial1/ProducerDemoKeys.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kafka/tutorial1/ProducerDemoKeys.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
