@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kafka/tutorial1/ConsumerDemoAssignSeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kafka/tutorial1/ConsumerDemoAssignSeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/kafka/tutorial1/ConsumerDemoAssignSeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kafka/tutorial1/ConsumerDemoAssignSeek.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/kafka/tutorial1/ProducerDemoKeys.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kafka/tutorial1/ProducerDemoKeys.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
